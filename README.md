@@ -1,1 +1,0 @@
-Initiation à pygame
