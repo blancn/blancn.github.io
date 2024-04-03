@@ -252,5 +252,4 @@ while sortir == False :
 **Bibliographie**
 
 - Documentation officielle de Pygame, https://www.pygame.org/docs/
-- Cours d'OpenClassrooms, https://openclassrooms.com/fr/courses/1399541-interface-graphique-pygame-pour-python/1399813-premieres-fenetres.
 
