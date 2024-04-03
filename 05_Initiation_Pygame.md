@@ -245,6 +245,21 @@ while sortir == False :
     sortir = True
 ```
 
+- **gérer les collisions:**
+```python
+#ajout d'un bloc
+bloc = pygame.image.load("bloc.png")
+position_bloc = bloc.get_rect()
+position_bloc.topleft = (100,100)
+
+#gestion collision vers le bas
+if event.key == K_DOWN :
+    position_futur = position_perso.move(0,pas_deplacement)
+    collision = pygame.Rect.colliderect(position_futur, position_bloc)
+     if not collision:
+         position_perso = position_perso.move(0,pas_deplacement)
+```
+
 
 </br>
 
