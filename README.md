@@ -1,5 +1,6 @@
 # Initiation à Pygame
  travail originale de G.Lassus
+ 
  CC BY-SA / G.Lassus 
  
  Quelque peu modifier pour un cours
