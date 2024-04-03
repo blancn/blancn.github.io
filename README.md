@@ -1,7 +1,8 @@
 # Initiation à Pygame
  travail originale de G.Lassus
  CC BY-SA / G.Lassus 
- Quelques modifs pour un cours
+ 
+ Quelque peu modifier pour un cours
 ![](data/logopygame.png){: .center width=40%}
 
 
